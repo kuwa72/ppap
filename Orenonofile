@@ -1,0 +1,9 @@
+increment  "ApplePen "
+decrement "Pineapplepen "
+next_cursol "a pen "
+previous_cursol "a pineapple "
+display "an apple "
+read "PPAP "
+start_loop "I have "
+end_loop "PenPineappleApplePen "
+
